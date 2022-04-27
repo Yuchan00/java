@@ -3,27 +3,27 @@ package ifExample;
 public class SwitchTest01 {
 
 	public static void main(String[] args) {
-		// Á¶°Ç¹® - switch¹®
+		// ì¡°ê±´ë¬¸ - switchë¬¸ ì‹¤ìŠµ
 		int num = (int)(math.random() * 6) + `;
 				
 		switch(num) {
 		case 1:
-			System.out.println("ÁÖ»çÀ§ °ªÀº 1ÀÔ´Ï´Ù");
+			System.out.println("ì£¼ì‚¬ìœ„ ê°’ì€ 1ì…ë‹ˆë‹¤");
 			break;
 		case 2:
-			System.out.println("ÁÖ»çÀ§ °ªÀº 2ÀÔ´Ï´Ù");
+			System.out.println("ì£¼ì‚¬ìœ„ ê°’ì€ 2ì…ë‹ˆë‹¤");
 			break;
 		case 3:
-			System.out.println("ÁÖ»çÀ§ °ªÀº 3ÀÔ´Ï´Ù");
+			System.out.println("ì£¼ì‚¬ìœ„ ê°’ì€ 3ì…ë‹ˆë‹¤");
 			break;
 		case 4:
-			System.out.println("ÁÖ»çÀ§ °ªÀº 4ÀÔ´Ï´Ù");
+			System.out.println("ì£¼ì‚¬ìœ„ ê°’ì€ 4ì…ë‹ˆë‹¤");
 			break;
 		case 5:
-			System.out.println("ÁÖ»çÀ§ °ªÀº 5ÀÔ´Ï´Ù");
+			System.out.println("ì£¼ì‚¬ìœ„ ê°’ì€ 5ì…ë‹ˆë‹¤");
 			break;
 		case 6:
-			System.out.println("ÁÖ»çÀ§ °ªÀº 6ÀÔ´Ï´Ù");
+			System.out.println("ì£¼ì‚¬ìœ„ ê°’ì€ 6ì…ë‹ˆë‹¤");
 			break;
 		}
 
